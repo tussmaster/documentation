@@ -5,10 +5,11 @@ Forum and eLearning
 Forum
 =====
 
-To go above and beyond email, live chat, web forms, and phone lines, offer your customers a
-support forum. This way, customers might become more attached to your company as they would be
-investing time to get into details of your business. You also encourage the exchange of experiences
-and knowledge, supporting the feeling of belonging to a community (your community!).
+Phone lines, email support, and live chat are all necessary for excellent customer service, but
+adding a support forum can improve satisfaction rates and build a loyal community. A forum
+encourages customer engagement, knowledge sharing, and brand trust. By providing a space for
+questions and conversation, you'll learn valuable information for your business, and your
+customers will be happier.
 
 Set up
 ------
@@ -44,9 +45,9 @@ Turn tickets into forum posts by simply clicking on *Share on the Forum* on the 
 eLearning
 =========
 
-In addition to a forum, offer online courses. When doing so, you link your customers and users’
-needs and questions to useful content, helping to boost efficiency as they can also find their
-answers there.
+In addition to a forum, online courses can help improve your customer experience and save
+valuable time. Your customers can find answers themselves with tutorials, and your support team
+can send links to useful content rather than writing out lengthy emails.
 
 Set up
 ------
