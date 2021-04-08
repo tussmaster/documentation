@@ -1,8 +1,10 @@
-======
-Survey
-======
+=======
+Surveys
+=======
 
 .. toctree::
    :titlesonly:
 
-   survey/overview
+   survey/survey_essentials
+   survey/scoring
+   survey/time_random
