@@ -165,8 +165,8 @@ alias in your mail server.
 
 .. tip:: All the aliases are customizable in Odoo.
    Object aliases can be edited from their  respective configuration view.
-   To edit catchall and bounce aliases, you first need to activate the
-   :doc:`Developer mode </applications/general/developer_mode>`.
+   To edit catchall and bounce aliases, you first need to :ref:`activate the
+   developer mode <activate-developer-mode>`.
 
  Then go to :menuselection:`Settings --> Technical --> Parameters --> System Parameters`
  to customize the aliases (*mail.catchall.alias* & * mail.bounce.alias*).
@@ -175,7 +175,7 @@ alias in your mail server.
     :align: center
 
 .. note:: By default inbound messages are fetched every 5 minutes in Odoo on-premise.
-   You can change this value in :doc:`Developer mode </applications/general/developer_mode>`.
+   You can change this value in :ref:`developer mode <activate-developer-mode>`.
    Go to :menuselection:`Settings --> Technical --> Automation -->
    Scheduled Actions` and look for *Mail: Fetchmail Service*.
 
@@ -196,8 +196,8 @@ or Sendgrid for mass mailings.
    A default outgoing email server is already configured. You should not create an alternative one
    unless you want to use a specific external outgoing email server for technical reasons.
 
-To do this, you should first enable the :doc:`Developer mode
-</applications/general/developer_mode>` and then go to :menuselection:`Settings --> Technical
+To do this, you should first enable the :ref:`developer mode <activate-developer-mode>`
+and then go to :menuselection:`Settings --> Technical
 --> Outgoing` e-mail servers. There you have to create two e-mail MTA server settings. One for
 transactional e-mails and one for mass mail servers. Be sure to mark the priority of transactional
 e-mail servers as low as the mass email servers.

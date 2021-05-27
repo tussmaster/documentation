@@ -29,7 +29,7 @@ by people according to the billable hours recorded, and even a timesheet table.
 If you do not have the Timesheets application installed
 -------------------------------------------------------
 
-| Activate the :doc:`Developer mode </applications/general/developer_mode>`. Then go to
+| :ref:`Activate the developer mode <activate-developer-mode>`. Then go to
   *Manager Users* and enable *Analytic Accounting*. Now, go to :menuselection:`Project -->
   Configuration --> Projects` and specify an *Analytic Account* under the needed project.
 | A *Profitability* menu to the costs and revenues of this analytic account is directly available

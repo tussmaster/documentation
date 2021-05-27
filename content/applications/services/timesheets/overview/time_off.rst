@@ -6,7 +6,7 @@ Odoo automatically timesheets on project/tasks upon time off requests. This allo
 overall control over the validation of timesheets, as it does not leave place for forgetfulness
 and questions after hours that have not been timesheeted by the employee.
 
-Activate the :doc:`Developer mode </applications/general/developer_mode>`, go to *Timesheets*,
+:ref:`Activate the developer mode <activate-developer-mode>`, go to *Timesheets*,
 and change the *Project* and *Task* set by default, if you like.
 
 .. image:: media/record_time_off.png
